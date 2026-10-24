@@ -12,14 +12,9 @@
 <h3 align="center">Desarrollador de software junior · Aprendiz SENA ADSO</h3>
 <!-- ✏️ EDITA: cambia el subtítulo por tu rol real (ej. "Desarrolladora web junior") -->
 
-<!-- ✏️ EDITA: reemplaza assets/banner.svg y assets/banner-claro.svg por TUS imágenes (1280x400, menos de 500 KB).
-     Si solo tienes una imagen, usa únicamente la etiqueta <img> y borra el <picture>. -->
+<!-- ✏️ EDITA: reemplaza assets/banner2.svg por tu imagen (1280x400, menos de 500 KB). -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
-    <img alt="Banner de Andres Elian Diaz Suarez: desarrollador de software" src="assetsg/banner2.svg" width="100%">
-  </picture>
+  <img alt="Banner de Andres Elian Diaz Suarez: desarrollador de software" src="assets/banner2.svg" width="100%">
 </p>
 
 <!-- ✏️ EDITA: cambia TU-USUARIO en cada badge. Los de Discord/NPM/LinkedIn son opcionales: borra los que no uses. -->
