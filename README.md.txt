@@ -32,16 +32,16 @@
   <a href="https://discord.com/users/TU-ID-DISCORD"><img alt="Discord (opcional)" src="https://img.shields.io/badge/Discord-opcional-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-Hola, soy Andres Elian Diaz Suarez 👋
+## Hola, soy TU-NOMBRE 👋
+<!-- ✏️ EDITA: escribe tu nombre real. -->
 
+> 📌 **Aviso:** estoy buscando mi primera oportunidad (práctica o empleo junior). Si tienes una vacante, ¡escríbeme!
+<!-- ✏️ EDITA: este aviso es opcional. Cámbialo (ej. "Estoy aprendiendo React") o bórralo. -->
 
-📌 Estoy buscando mi primera oportunidad (práctica o empleo junior). Si tienes una vacante, ¡escríbeme!
+## 🚀 Sobre mí
 
-
-🚀 Sobre mí
-
-
-Soy aprendiz delTecnólogo en Análisis y Desarrollo de Software del SENA (Piedecuesta, Santander). Me interesa construir aplicaciones web útiles y aprender buenas prácticas: código limpio, control de versiones con Git y trabajo en equipo.
+<!-- ✏️ EDITA: 2 párrafos honestos y cortos. Sin cifras inventadas: cuenta solo lo que de verdad has hecho. -->
+Soy aprendiz del **Tecnólogo en Análisis y Desarrollo de Software del SENA (Piedecuesta, Santander)**. Me interesa construir aplicaciones web útiles y aprender buenas prácticas: código limpio, control de versiones con Git y trabajo en equipo.
 
 Estoy en etapa de formación: he desarrollado proyectos de clase y personales que puedes ver más abajo. Aprendo todos los días, me gusta recibir retroalimentación y busco una práctica o un primer empleo donde seguir creciendo.
 
